@@ -8,6 +8,5 @@
 </head>
 <body>
 hirai
-hiroki
 </body>
 </html>
